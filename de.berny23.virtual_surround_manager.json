@@ -22,8 +22,10 @@
             ],
             "sources": [
                 {
-                    "type": "dir",
-                    "path": "../../"
+                    "type": "git",
+                    "url": "https://github.com/Berny23/virtual-surround-manager.git",
+                    "tag": "v1.1.2",
+                    "commit": "45717c07ffe0f1de1cb2faaa946b1002572c9494"
                 }
             ],
             "modules": [
